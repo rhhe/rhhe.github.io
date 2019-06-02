@@ -1,11 +1,13 @@
 ## Welcome to RHHe's Pages
 
+<!--
 ![Image](https://avatars2.githubusercontent.com/u/24181362?s=96&v=4)
+-->
 
 ### About
 My main job is about **operational research**, **machine learning**, **heuristic algorithm**, and **date analysis**. Main tools are about **c++**, **python**. Some useful links were noted in this page. 
 
-My csnd weblog: [My CSDN homepages](https://blog.csdn.net/kakakaco)
+My csnd weblog: [https://blog.csdn.net/kakakaco](https://blog.csdn.net/kakakaco)
 
 ### Operational Research
 
