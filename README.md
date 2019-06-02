@@ -9,19 +9,19 @@ My main job is about **operational research**, **machine learning**, **heuristic
 
 My csnd weblog: [https://blog.csdn.net/kakakaco](https://blog.csdn.net/kakakaco)
 
-### Operational Research
+### * Operational Research
 
-### Machine Learning
+### * Machine Learning
 
-### Heuristic algorithm
+### * Heuristic algorithm
 
-### C++
+### * C++
 1. jsoncpp: jsoncpp is very useful for parsing json format strings in c++.
 
-### Python
+### * Python
 
-### Good tools
-1. everything. 
+### * Good tools
+1. everything: A very good tool for windows user, and it can find your local files very quickly than the original search-tool.
 
 
 
