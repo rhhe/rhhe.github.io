@@ -3,11 +3,7 @@
 ![Image](https://avatars2.githubusercontent.com/u/24181362?s=96&v=4)
 
 ### About
-My main job is about **Operational Research**, **Machine Learning**, and **Date Analysis**.
-
-My main tools are **C++**, **Python3**. 
-
-Here, some useful links were noted in this page.
+My main job is about **operational research**, **machine learning**, **heuristic algorithm**, and **date analysis**. Main tools are about **c++**, **python**. Some useful links were noted in this page. 
 
 My csnd weblog: [My CSDN homepages](https://blog.csdn.net/kakakaco)
 
@@ -15,12 +11,15 @@ My csnd weblog: [My CSDN homepages](https://blog.csdn.net/kakakaco)
 
 ### Machine Learning
 
+### Heuristic algorithm
+
 ### C++
+1. jsoncpp: jsoncpp is very useful for parsing json format strings in c++.
 
 ### Python
 
 ### Good tools
-
+1. everything. 
 <!--
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
