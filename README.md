@@ -5,7 +5,7 @@
 -->
 
 ### About
-My main job is about **operational research**, **machine learning**, **heuristic algorithm**, and **date analysis**. Main tools are about **c++**, **python**. Some useful links were noted in this page. 
+My main job is about **operational research**, **machine learning**, **heuristic algorithm**, and **data analysis**. Main tools are about **c++**, **python**. Some useful links were noted in this page. 
 
 My csnd weblog: [https://blog.csdn.net/kakakaco](https://blog.csdn.net/kakakaco)
 
@@ -15,8 +15,11 @@ My csnd weblog: [https://blog.csdn.net/kakakaco](https://blog.csdn.net/kakakaco)
 
 ### * Heuristic algorithm
 
+### * Data analysis
+1. cern-root: ROOT a Data analysis Framework, c++ is its main language. It is used widely in high-energy collision physics. THist, TGraph, its own file format(".root"), TTree, TChain and so on are useful for quick big data saving, reading, graphing and visualization. [cern-root home page](https://root.cern.ch/), [c++ class index](https://root.cern.ch/root/html604/ClassIndex.html)
+
 ### * C++
-1. jsoncpp: jsoncpp is very useful for parsing json format strings in c++.
+1. jsoncpp: parsing json format strings in c++.
 
 ### * Python
 
