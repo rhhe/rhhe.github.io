@@ -1,36 +1,66 @@
-## Welcome to RHHe's Pages
+# Welcome to RHHe's Pages
 
 <!--
 ![Image](https://avatars2.githubusercontent.com/u/24181362?s=96&v=4)
 -->
 
-### About
+## About
 My main job is about **operational research**, **machine learning**, **heuristic algorithm**, and **data analysis**. Main tools are about **c++**, **python**. Some useful links were noted in this page. 
 
 My csnd weblog: [https://blog.csdn.net/kakakaco](https://blog.csdn.net/kakakaco)
 
-### * Operational Research
-
-### * Machine Learning
-
-### * Heuristic algorithm
-
-### * Data analysis
-1. cern-root: ROOT a Data analysis Framework, c++ is its main language. It is used widely in high-energy collision physics. THist, TGraph, its own file format(".root"), TTree, TChain and so on are useful for quick big data saving, reading, graphing and visualization. [cern-root home page](https://root.cern.ch/), [c++ class index](https://root.cern.ch/root/html604/ClassIndex.html)
-
-### * C++
-1. jsoncpp: parsing json format strings in c++.
-
-### * Python
-
-### * Good tools
-1. everything: A very good tool for windows user, and it can find your local files very quickly than the original search-tool.
 
 
+## Articles
 
+* **Forward-backward multiplicity correlations caused by centrality fluctuations in high-energy heavy-ion collisions.** 
 
+  **Ronghua He**,  Jing Qian, Lei Huo. 
 
+  Published in: *Phys.Rev.C* 93 (2016) 4, 044918
 
+  DOI: [10.1103/PhysRevC.93.044918](https://doi.org/10.1103/PhysRevC.93.044918)
+
+* **Removing the influence of centrality fluctuations in the analysis of forward-backward multiplicity correlations in heavy-ion collisions.**
+
+  **Ronghua He**,  Jing Qian, Lei Huo. 
+  
+  Published in: *Phys.Rev.C* 94 (2016) 3, 034902
+  
+  DOI: [10.1103/PhysRevC.94.034902](https://doi.org/10.1103/PhysRevC.94.034902)
+  
+* **Extracting temperature and transverse flow by fitting transverse mass spectra and HBT radii together.**
+  **Ronghua He**, Jing Qian, Jianyi Chen, Qingxin Wu, Lei Huo.
+  
+  Published in: *Mod.Phys.Lett.A* 32 (2017) 9, 1750052
+  
+  e-Print: [1608.04068](https://arxiv.org/abs/1608.04068) [nucl-th]
+  
+  DOI: [10.1142/S0217732317500523](https://doi.org/10.1142/S0217732317500523)
+  
+* **Methods for analysis of two-particle rapidity correlation function in high-energy heavy-ion collisions**
+
+  **Ronghua He**,  Jing Qian, Lei Huo. 
+
+  e-Print: [1702.03137](https://arxiv.org/abs/1702.03137) [nucl-th]
+  
+* **Effect of partonic cascade on two-pion HBT parameters of the core-halo source in relativistic heavy-ion collisions**
+
+  Yao Zhang, Jingbo Zhang, **Ronghua He**, Yinghua Pan, Jianli Liu, Lei Huo
+
+  Published in: *J.Phys.G* 41 (2014) 12, 125106
+
+  DOI: [10.1088/0954-3899/41/12/125106](https://doi.org/10.1088/0954-3899/41/12/125106)
+
+* **Differential flow correlations in relativistic heavy-ion collisions**
+
+  Jing Qian, Ulrich Heinz, **Ronghua He**, Lei Huo
+
+  Published in:  *Phys.Rev.C* 95 (2017) 5, 054908
+
+  e-Print: [1703.04077](https://arxiv.org/abs/1703.04077) [nucl-th]
+
+  DOI: [10.1103/PhysRevC.95.054908](https://doi.org/10.1103/PhysRevC.95.054908)
 
 <!--
 
