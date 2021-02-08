@@ -1,4 +1,4 @@
-# Welcome to RHHe's Pages
+# Ronghua He Homepage
 
 <!--
 ![Image](https://avatars2.githubusercontent.com/u/24181362?s=96&v=4)
