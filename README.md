@@ -1,66 +1,28 @@
-# Ronghua He Homepage
+# Rong-hua He Homepage
 
 <!--
 ![Image](https://avatars2.githubusercontent.com/u/24181362?s=96&v=4)
 -->
 
 ## About
-My main job is about **operational research**, **machine learning**, **heuristic algorithm**, and **data analysis**. Main tools are about **c++**, **python**. Some useful links were noted in this page. 
+Now, my main job is about **operational research**, **heuristic algorithm**, and **data analysis**. Before 2017, my main job of Ph.D was about high-energy physics at Harbin Institute of Technology.
 
 My csnd weblog: [https://blog.csdn.net/kakakaco](https://blog.csdn.net/kakakaco)
 
-
-
 ## Articles
 
-* **Forward-backward multiplicity correlations caused by centrality fluctuations in high-energy heavy-ion collisions.** 
+* **Ronghua He**,  Jing Qian, et. al.  <u>Forward-backward multiplicity correlations caused by centrality fluctuations in high-energy heavy-ion collisions.</u>  [*Phys.Rev.C* 93 (2016) 4, 044918.](10.1103/PhysRevC.93.044918)
 
-  **Ronghua He**,  Jing Qian, Lei Huo. 
+* **Ronghua He**,  Jing Qian, et. al. <u>Removing the influence of centrality fluctuations in the analysis of forward-backward multiplicity correlations in heavy-ion collisions.</u> [*Phys.Rev.C* 94 (2016) 3, 034902](10.1103/PhysRevC.94.034902)
 
-  Published in: *Phys.Rev.C* 93 (2016) 4, 044918
+* **Ronghua He**, Jing Qian, Jianyi Chen, Qingxin Wu, et. al. <u>Extracting temperature and transverse flow by fitting transverse mass spectra and HBT radii together.</u> [*Mod.Phys.Lett.A* 32 (2017) 9, 1750052](10.1142/S0217732317500523),  [arXiv: 1608.04068](https://arxiv.org/abs/1608.04068)
 
-  DOI: [10.1103/PhysRevC.93.044918](https://doi.org/10.1103/PhysRevC.93.044918)
-
-* **Removing the influence of centrality fluctuations in the analysis of forward-backward multiplicity correlations in heavy-ion collisions.**
-
-  **Ronghua He**,  Jing Qian, Lei Huo. 
+* **Ronghua He**,  Jing Qian, et. al. <u>Methods for analysis of two-particle rapidity correlation function in high-energy heavy-ion collisions</u> [arXiv: 1702.03137](https://arxiv.org/abs/1702.03137)
   
-  Published in: *Phys.Rev.C* 94 (2016) 3, 034902
-  
-  DOI: [10.1103/PhysRevC.94.034902](https://doi.org/10.1103/PhysRevC.94.034902)
-  
-* **Extracting temperature and transverse flow by fitting transverse mass spectra and HBT radii together.**
-  **Ronghua He**, Jing Qian, Jianyi Chen, Qingxin Wu, Lei Huo.
-  
-  Published in: *Mod.Phys.Lett.A* 32 (2017) 9, 1750052
-  
-  e-Print: [1608.04068](https://arxiv.org/abs/1608.04068) [nucl-th]
-  
-  DOI: [10.1142/S0217732317500523](https://doi.org/10.1142/S0217732317500523)
-  
-* **Methods for analysis of two-particle rapidity correlation function in high-energy heavy-ion collisions**
+* Yao Zhang, Jingbo Zhang, **Ronghua He**, et. al.  <u>Effect of partonic cascade on two-pion HBT parameters of the core-halo source in relativistic heavy-ion collisions</u>
+[*J.Phys.G* 41 (2014) 12, 125106](10.1088/0954-3899/41/12/125106)
 
-  **Ronghua He**,  Jing Qian, Lei Huo. 
-
-  e-Print: [1702.03137](https://arxiv.org/abs/1702.03137) [nucl-th]
-  
-* **Effect of partonic cascade on two-pion HBT parameters of the core-halo source in relativistic heavy-ion collisions**
-
-  Yao Zhang, Jingbo Zhang, **Ronghua He**, Yinghua Pan, Jianli Liu, Lei Huo
-
-  Published in: *J.Phys.G* 41 (2014) 12, 125106
-
-  DOI: [10.1088/0954-3899/41/12/125106](https://doi.org/10.1088/0954-3899/41/12/125106)
-
-* **Differential flow correlations in relativistic heavy-ion collisions**
-
-  Jing Qian, Ulrich Heinz, **Ronghua He**, Lei Huo
-
-  Published in:  *Phys.Rev.C* 95 (2017) 5, 054908
-
-  e-Print: [1703.04077](https://arxiv.org/abs/1703.04077) [nucl-th]
-
-  DOI: [10.1103/PhysRevC.95.054908](https://doi.org/10.1103/PhysRevC.95.054908)
+* Jing Qian, Ulrich Heinz, **Ronghua He**, et. al. <u>Differential flow correlations in relativistic heavy-ion collisions</u> [*Phys.Rev.C* 95 (2017) 5, 054908](10.1103/PhysRevC.95.054908) [arXiv: 1703.04077](https://arxiv.org/abs/1703.04077) [nucl-th]
 
 <!--
 
@@ -94,3 +56,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
+
