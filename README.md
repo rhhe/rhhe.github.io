@@ -1,8 +1,5 @@
 # Rong-hua He Homepage
 
-<!--
-![Image](https://avatars2.githubusercontent.com/u/24181362?s=96&v=4)
--->
 
 ## About
 Now, my main job is about **operational research**, **heuristic algorithm**, and **data analysis**. Before 2017, my main job of Ph.D was about high-energy physics at Harbin Institute of Technology.
@@ -24,36 +21,4 @@ My csnd weblog: [https://blog.csdn.net/kakakaco](https://blog.csdn.net/kakakaco)
 
 * Jing Qian, Ulrich Heinz, **Ronghua He**, et. al. <u>Differential flow correlations in relativistic heavy-ion collisions</u> [*Phys.Rev.C* 95 (2017) 5, 054908](10.1103/PhysRevC.95.054908) [arXiv: 1703.04077](https://arxiv.org/abs/1703.04077) [nucl-th]
 
-<!--
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://avatars2.githubusercontent.com/u/24181362?s=96&v=4)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rhhe/rhhe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
--->
 
